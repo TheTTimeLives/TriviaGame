@@ -1,0 +1,65 @@
+body {
+    background-color: blueviolet;
+    background-image: url("../images/Elegant_Background-18.jpg");
+    
+    
+    
+}
+
+
+.bg{
+    background-image: url("assets/images/Elegant_Background-17.jpg");
+}
+
+#block{
+    background-color: aquamarine;
+    height: 100%;
+    
+}
+
+#body{
+    
+    margin: 20px;
+    
+}
+
+h3{
+    
+    margin: 20px;
+    font-size: 50px;
+    
+}
+
+#countdown{
+    margin-top: 30px
+}
+
+
+.center{
+    text-align: center;
+}
+
+#heading{
+    font-size:100px;
+    
+}
+
+.buttonhead{
+    border-color: aquamarine;
+    height:50px;
+    width:100%;
+    position:relative;
+    bottom: 200%;
+    
+}
+
+.gap{
+    margin: 10% 0px;
+}
+.wrap{
+    
+    margin: 90px auto;
+    background-color: azure;
+    background-image: url("assets/images/Elegant_Background-17.jpg");
+}
+
